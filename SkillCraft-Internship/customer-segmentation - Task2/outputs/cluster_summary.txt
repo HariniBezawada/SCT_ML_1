@@ -1,0 +1,8 @@
+Customer Segmentation Summary
+========================================
+
+Cluster 0: 10 customers
+Cluster 1: 8 customers
+Cluster 2: 15 customers
+Cluster 3: 8 customers
+Cluster 4: 9 customers
